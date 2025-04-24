@@ -1,0 +1,6 @@
+*.json
+*.py
+*.aux
+*.log
+*.out
+*.tex
